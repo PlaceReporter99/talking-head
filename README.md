@@ -13,4 +13,4 @@ A programming language where you talk instead of type.
 `bite` states that the text is given in hex bytes instead of literal speech.
 `input` does not work with pop, follow it by a prompt.
 ## Other stuff
-Due to articulation issues, bike is replaced with bite.
+"bite" has been made to replace "bike" due to interpretation issues.
