@@ -1,7 +1,8 @@
 # TalkingHead
 
 A programming language where you talk instead of type.
-
+## `pip install`
+To use the Python script, run `pip install SpeechRecognition` and download the script. After that, run it using Python 3.
 ## Commands
 ### Splitting
 `after that` splits each command.
